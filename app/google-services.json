@@ -1,0 +1,67 @@
+{
+  "project_info": {
+    "project_number": "763390714076",
+    "project_id": "login-ecomerce-2fdc9",
+    "storage_bucket": "login-ecomerce-2fdc9.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:763390714076:android:e4e9354264db733ff59419",
+        "android_client_info": {
+          "package_name": "com.alexandertutoriales.cliente.e_commerceapp"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAGYkw54JJ0_sNcRseTNfGCeBrg-26qzuk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:763390714076:android:bab692978a2007adf59419",
+        "android_client_info": {
+          "package_name": "com.dhruva.shopping"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAGYkw54JJ0_sNcRseTNfGCeBrg-26qzuk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:763390714076:android:92130935df6bf441f59419",
+        "android_client_info": {
+          "package_name": "com.example.e_comerce"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAGYkw54JJ0_sNcRseTNfGCeBrg-26qzuk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
